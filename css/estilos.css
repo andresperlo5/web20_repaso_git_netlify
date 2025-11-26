@@ -29,3 +29,13 @@
 .nav-link:hover {
   box-shadow: 4px 4px 9px 4px rgba(255, 255, 255, 0.5);
 }
+
+.carousel {
+  height: 75vh;
+}
+
+.carousel img {
+  height: 75vh;
+  object-fit: cover;
+  object-position: left;
+}
