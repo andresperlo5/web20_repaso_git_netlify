@@ -3,3 +3,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+.bg-marvel {
+  background-color: #a1473f;
+}
+.img-logo img {
+  width: 150px;
+}
+
+.bg-marvel a {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.active-marvel {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid white;
+}
+
+.nav-link:hover {
+  color: rgb(255, 255, 255);
+}
+
+.nav-link:hover {
+  box-shadow: 4px 4px 9px 4px rgba(255, 255, 255, 0.5);
+}
